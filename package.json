@@ -1,16 +1,16 @@
 {
-"name": "mc369",
-"theme": "mc369",
-"version": "8.1.1",
-"description": "mc369 สมัครสมาชิกเว็บแทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ ให้เงินเครดิตฟรี",
-"keywords": [
-"mc369",
-"mc369 เครดิตฟรี",
-"mc369 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mc369",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mc369",
+  "theme": "mc369",
+  "version": "8.2.0",
+  "description": "mc369 สมัครสมาชิกเว็บแทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "mc369",
+    "mc369 เครดิตฟรี",
+    "mc369 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mc369",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
